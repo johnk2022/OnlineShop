@@ -1,0 +1,11 @@
+pip3 install Django==3.2
+django-admin startproject boutique_ado .
+
+
+Add to ignoore
+*.sqlite3
+*.pyc
+
+python3 manage.py runserver
+python3 manage.py migrate
+python3 manage.py createsuperuser
