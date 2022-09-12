@@ -9,3 +9,6 @@ Add to ignoore
 python3 manage.py runserver
 python3 manage.py migrate
 python3 manage.py createsuperuser
+
+pip3 install django-allauth==0.41.0
+import os to settings.py
