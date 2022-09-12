@@ -12,3 +12,10 @@ python3 manage.py createsuperuser
 
 pip3 install django-allauth==0.41.0
 import os to settings.py
+
+mkdir templates
+mkdir templates\allauth
+
+ls ../.pip-modules/lib
+
+cp -r ..//.pip-modules/lib/python3.8/site-packages/allauth/templates/* ./templates
