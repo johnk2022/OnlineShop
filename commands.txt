@@ -34,3 +34,8 @@ python3 manage.py migrate
 
 python3 manage.py loaddata categories
 python3 manage.py loaddata products
+
+go back and fix the minus quantity
+https://learn.codeinstitute.net/courses/course-v1:CodeInstitute+EA101+2021_T1/courseware/eb05f06e62c64ac89823cc956fcd8191/9c06563251a34ed19f5d4273ab4d55ab/?child=first
+
+python3 manage.py startapp bag
