@@ -51,3 +51,4 @@ item.has+sizes = True
 item.save()
 Product.objects.filter(has_sizes=True)
 Product.objects.filter(has_sizes=True).count()
+exit
