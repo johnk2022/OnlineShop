@@ -59,3 +59,8 @@ python3 manage.py makemigrations --dry-run
 python3 manage.py makemigrations
 python3 manage.py migrate --plan
 python3 manage.py migrate
+
+pip3 install Django-crispy-forms
+
+
+pip3 freeze > requirements.txt
