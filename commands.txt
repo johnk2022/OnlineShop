@@ -64,3 +64,9 @@ pip3 install Django-crispy-forms
 
 
 pip3 freeze > requirements.txt
+
+
+sk_test_51Lic5ZJDdpaZ4tUAcwN6wnBDKogoD1R6KJEaYWsGAlmiQna7MIVHkx6k0y8Hbrjp2a1COKcYVi1uwtSaLipBAseJ003WyWpuSy
+
+pk_test_51Lic5ZJDdpaZ4tUAZnx6BnzCKkfhN4pPWCbf2wM0jqihF6r6uM0n1gROf8SCV65VJSETC9iBI4pshYHjufzvqONh00LP4KtUcf
+
