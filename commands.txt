@@ -52,3 +52,5 @@ item.save()
 Product.objects.filter(has_sizes=True)
 Product.objects.filter(has_sizes=True).count()
 exit
+
+python3 manage.py startapp checkout
