@@ -71,6 +71,8 @@ export STRIPE_PUBLIC_KEY=pk_test_51Lic5ZJDdpaZ4tUAZnx6BnzCKkfhN4pPWCbf2wM0jqihF6
 nope pip install dj-database-url
 pip3 install stripe 
 
+test card details
+4242 4242 4242 4242 04/24 242 42424
 
 
 
