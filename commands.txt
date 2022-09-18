@@ -68,7 +68,7 @@ pip3 freeze > requirements.txt
 export STRIPE_SECRET_KEY=sk_test_51Lic5ZJDdpaZ4tUAcwN6wnBDKogoD1R6KJEaYWsGAlmiQna7MIVHkx6k0y8Hbrjp2a1COKcYVi1uwtSaLipBAseJ003WyWpuSy
 export STRIPE_PUBLIC_KEY=pk_test_51Lic5ZJDdpaZ4tUAZnx6BnzCKkfhN4pPWCbf2wM0jqihF6r6uM0n1gROf8SCV65VJSETC9iBI4pshYHjufzvqONh00LP4KtUcf
 
-pip install dj-database-url
+nope pip install dj-database-url
 pip3 install stripe 
 
 
