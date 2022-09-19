@@ -74,6 +74,6 @@ pip3 install stripe
 test card details
 4242 4242 4242 4242 04/24 242 42424
 
-
+pip3 install django-countries==7.2.1
 
 
