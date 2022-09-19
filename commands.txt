@@ -78,3 +78,14 @@ pip3 install django-countries==7.2.1
 
 
 python3 manage.py startapp profiles
+
+pip3 install dj_database_url
+pip3 install psycopg2-binary
+pip3 freeze > requirements.txt
+
+
+postgres://qvbyquthqhlgvh:5fcbe59727058343e5bf80dead3bfeb039f4f44141df4b56b94883b554c5e76f@ec2-54-77-40-202.eu-west-1.compute.amazonaws.com:5432/d6vjpmlb6jkvt
+
+python3 manage.py makemigrations
+python3 manage.py migrate --plan
+python3 manage.py migrate
