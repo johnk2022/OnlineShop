@@ -106,3 +106,5 @@ set git remote heroku to https://git.heroku.com/adojk.git
 https://git.heroku.com/adojk.git
  heroku login
 git push heroku main
+
+python3 manage.py runserver
