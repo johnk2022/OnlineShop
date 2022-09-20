@@ -97,3 +97,7 @@ Use this command to backup your current database and load it into a db.json file
 Connect your settings.py file to your postgres database
 Then use this command to load your data from the db.json file into postgres:
 ./manage.py loaddata db.json
+
+pip3 install gunicorn
+pip3 freeze > requirements.txt
+git push heroku main
