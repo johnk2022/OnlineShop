@@ -100,4 +100,9 @@ Then use this command to load your data from the db.json file into postgres:
 
 pip3 install gunicorn
 pip3 freeze > requirements.txt
+
+set git remote heroku to https://git.heroku.com/adojk.git
+
+https://git.heroku.com/adojk.git
+ heroku login
 git push heroku main
