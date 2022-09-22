@@ -108,3 +108,10 @@ https://git.heroku.com/adojk.git
 git push heroku main
 
 python3 manage.py runserver
+
+pip3 install boto3 
+pip3 install django-storages
+
+
+
+pip3 freeze > requirements.txt
