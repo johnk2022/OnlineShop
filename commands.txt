@@ -88,7 +88,7 @@ postgres://qvbyquthqhlgvh:5fcbe59727058343e5bf80dead3bfeb039f4f44141df4b56b94883
 
 python3 manage.py makemigrations
 python3 manage.py migrate --plan
-python3 manage.py migrate
+
 
 
 Make sure your settings.py file is connected to your sqlite3 database
